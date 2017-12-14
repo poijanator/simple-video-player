@@ -1,0 +1,40 @@
+{
+    "videos": [
+        {
+            "id": "i-p9lWIhcLQ",
+            "episode": "Episode 1",
+            "title": "Arrival at Kraghammer",
+            "categoryid": "2"
+        },
+        {
+            "id": "JTie0S_5gjE",
+            "episode": "Episode 2",
+            "title": "Into the Greyspine mines",
+            "categoryid": "2"
+        },
+        {
+            "id": "kpkCcb--r90",
+            "episode": "Episode 3",
+            "title": "Strange bedfellows",
+            "categoryid": "2"
+        },
+        {
+            "id": "kGxiZNbjwGI",
+            "episode": "Episode 4",
+            "title": "Attack on the Duergar Warcamp",
+            "categoryid": "1"
+        },
+        {
+            "id": "u6QpXDL7E8Y",
+            "episode": "Episode 5",
+            "title": "The Trick About Falling",
+            "categoryid": "1"
+        },
+        {
+            "id": "cemCmD27Rnc",
+            "episode": "Episode 6",
+            "title": "Breaching the Emberhold",
+            "categoryid": "1"
+        }
+    ]
+}
